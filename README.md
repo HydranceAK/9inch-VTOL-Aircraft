@@ -30,7 +30,5 @@ The last few months have been focused on component research and system testing: 
 
 **Phase 5: Deployment** — Offer the finished aircraft and build specs to NGOs, emergency response teams, and field organizations that need low-cost aerial logistics.
 
-<img width="1040" height="490" alt="image" src="https://github.com/user-attachments/assets/29b38fa5-88d3-4497-b8a5-746ebb471622" />
-<img width="1910" height="856" alt="image" src="https://github.com/user-attachments/assets/06ab7b44-2463-4e15-b5e8-b02cbc13ae80" />
 
 
