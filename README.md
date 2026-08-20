@@ -30,5 +30,31 @@ The last few months have been focused on component research and system testing: 
 
 **Phase 5: Deployment** — Offer the finished aircraft and build specs to NGOs, emergency response teams, and field organizations that need low-cost aerial logistics.
 
+Specs:
+
+2812 900kv Brushless Motor
+21700 6s 2p 8000mah JP40 Custom battery pack
+F722 Flight Controller (custom in work)
+4in1 ESC
+Buzzer
+ELRS Receiver
+DJI O4 Air Unit
+DJI Goggle N3
+Rasberry Pi 3 (upgrading to 5 soon)
+Rasberry pi AI cam + Normal Cam
+Rasiomaster pocket + ELRS module 500mw
+4 TOF Sensors
+25kg Tilt Servo 
+9inch Triblade Propellers
+SG90 Servos
+25mm GPS 
+Optical Flow Sensor
+
+Note: Not all the CAD designs are my own. Some parts like motors, servos, and propellers were sources from GRABCAD as I didn't want to CAD these parts. 
+
+<img width="1380" height="626" alt="image" src="https://github.com/user-attachments/assets/7266c5b6-4e37-4f6d-a766-289cd99e4b48" />
+<img width="1066" height="541" alt="image" src="https://github.com/user-attachments/assets/c9554ccc-dff6-4074-aab1-a2d7ea7a1beb" />
+<img width="1041" height="525" alt="image" src="https://github.com/user-attachments/assets/18695178-4598-47c4-83cd-518447d2e0f2" />
+<img width="1598" height="426" alt="image" src="https://github.com/user-attachments/assets/aa8923fc-e268-4060-9d8d-02ee4186f9ed" />
 
 
