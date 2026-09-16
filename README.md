@@ -55,9 +55,11 @@ Optical Flow Sensor
 
 Note: Not all the CAD designs are my own. Some parts like motors, servos, and propellers were sources from GRABCAD as I didn't want to CAD these parts. 
 
-<img width="1380" height="626" alt="image" src="https://github.com/user-attachments/assets/7266c5b6-4e37-4f6d-a766-289cd99e4b48" />
-<img width="1066" height="541" alt="image" src="https://github.com/user-attachments/assets/c9554ccc-dff6-4074-aab1-a2d7ea7a1beb" />
-<img width="1041" height="525" alt="image" src="https://github.com/user-attachments/assets/18695178-4598-47c4-83cd-518447d2e0f2" />
-<img width="1598" height="426" alt="image" src="https://github.com/user-attachments/assets/aa8923fc-e268-4060-9d8d-02ee4186f9ed" />
+<img width="1208" height="652" alt="Screenshot 2026-08-21 170527" src="https://github.com/user-attachments/assets/a5fea4f8-2b9d-41d5-8fd0-c08fe64632cc" />
+<img width="1095" height="615" alt="Screenshot 2026-08-21 212022" src="https://github.com/user-attachments/assets/7a219094-6ca9-4a4c-b2a6-949124fc6648" />
+<img width="773" height="416" alt="Screenshot 2026-08-21 212037" src="https://github.com/user-attachments/assets/5f8d1d9d-158c-4ea0-beb1-6ac6eb72249f" />
+<img width="960" height="697" alt="Screenshot 2026-08-21 212008" src="https://github.com/user-attachments/assets/aec70bd0-2f6b-4fb8-b9a3-5f7b58f363ee" />
+<img width="1021" height="529" alt="Screenshot 2026-08-22 122703" src="https://github.com/user-attachments/assets/984fc656-c684-4804-aceb-db7554c512f1" />
+<img width="1445" height="752" alt="Screenshot 2026-09-04 170445" src="https://github.com/user-attachments/assets/28e36888-c632-43ae-9a50-836c13b87d7a" />
 
 
