@@ -1,3 +1,6 @@
+**PROJECT COMPLETED, PLEASE NOTE THIS IS A PTOTYPE, THIS VERSION ISN'T COMPLETELY FUNCTIONAL, REFER TO YOUTUBE.COM/@HYDRANCEYT**
+**ALL PROJECT FILE ARE FREE FOR TESTING AND ADJUSTING**
+
 **Autonomous VTOL Aircraft**
 
 A custom-built, fully autonomous Vertical Take-Off and Landing (VTOL) aircraft designed for emergency medical supply transport, search and rescue operations, and early disaster identification. By blending multirotor hover capabilities with fixed-wing forward flight, this platform delivers critical supplies and real time monitoring to remote areas without needing runways or launch gear.
